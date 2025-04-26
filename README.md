@@ -22,11 +22,38 @@ This track follows the official [CAT Reloaded .NET Back-End Roadmap](https://git
 
 Here’s a snapshot of my progress so far:
 
-- **Week 1**: C# Basics – Syntax, variables, and control structures. "The secret of getting ahead is getting started." – Mark Twain
-- **Week 2**: OOP – Encapsulation, inheritance, and polymorphism. "Every expert was once a beginner." – Helen Hayes
-- **Week 3**: Generics & Collections – Learning to manage data efficiently. "Small progress is still progress." – Unknown
+# 📈 Weekly Progress
 
-(More weeks coming soon...)
+Here’s a snapshot of my progress so far:
+
+---
+
+## Week 1  
+**C# Basics** – Syntax, variables, and control structures.  
+> _"The secret of getting ahead is getting started."_ – Mark Twain
+
+---
+
+## Week 2  
+**OOP** – Encapsulation, inheritance, and polymorphism.  
+> _"Every expert was once a beginner."_ – Helen Hayes
+
+---
+
+## Week 3  
+**Generics & Collections** – Learning to manage data efficiently.  
+> _"Small progress is still progress."_ – Unknown
+
+---
+
+## Week 4  
+**Delegates, Events, Anonymous Methods & Lambda Expressions** – Exploring the power of function references and event-driven programming.  
+> _"Success is the sum of small efforts repeated day in and day out."_ – Robert Collier
+
+---
+
+*(More weeks coming soon... 🚀)*
+
 
 ---
 
