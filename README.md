@@ -33,19 +33,33 @@ Here’s a snapshot of my progress so far:
 > _"The secret of getting ahead is getting started."_ – Mark Twain
 
 
+
 ## Week 2  
 **OOP** – Encapsulation, inheritance, and polymorphism.  
 > _"Every expert was once a beginner."_ – Helen Hayes
+
+
 
 ## Week 3  
 **Generics & Collections** – Learning to manage data efficiently.  
 > _"Small progress is still progress."_ – Unknown
 
+
+
 ## Week 4  
 **Delegates, Events, Anonymous Methods & Lambda Expressions** – Exploring the power of function references and event-driven programming.  
 > _"Success is the sum of small efforts repeated day in and day out."_ – Robert Collier
 
+
+
+## Week 5  
+**Asynchronous Programming** – Mastering `async`, `await`, and responsive applications.  
+> _"Don't watch the clock; do what it does. Keep going."_ – Sam Levenson
+
+---
+
 *(More weeks coming soon... 🚀)*
+
 
 
 ---
